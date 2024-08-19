@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\FoodAndDrinkClone\\FoodAndDrink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A45387E6-514F-48D3-888E-AE408649E646}|FoodAndDrink\\FoodAndDrink.csproj|c:\\users\\hp\\source\\repos\\foodanddrinkclone\\foodanddrink\\foodanddrink\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A45387E6-514F-48D3-888E-AE408649E646}|FoodAndDrink\\FoodAndDrink.csproj|solutionrelative:foodanddrink\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45387E6-514F-48D3-888E-AE408649E646}|FoodAndDrink\\FoodAndDrink.csproj|c:\\users\\hp\\source\\repos\\foodanddrinkclone\\foodanddrink\\foodanddrink\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A45387E6-514F-48D3-888E-AE408649E646}|FoodAndDrink\\FoodAndDrink.csproj|solutionrelative:foodanddrink\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45387E6-514F-48D3-888E-AE408649E646}|FoodAndDrink\\FoodAndDrink.csproj|c:\\users\\hp\\source\\repos\\foodanddrinkclone\\foodanddrink\\foodanddrink\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A45387E6-514F-48D3-888E-AE408649E646}|FoodAndDrink\\FoodAndDrink.csproj|solutionrelative:foodanddrink\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FoodAndDrinkClone\\FoodAndDrink\\FoodAndDrink\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FoodAndDrink\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FoodAndDrinkClone\\FoodAndDrink\\FoodAndDrink\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FoodAndDrink\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-19T20:24:09.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FoodAndDrinkClone\\FoodAndDrink\\FoodAndDrink\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodAndDrink\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FoodAndDrinkClone\\FoodAndDrink\\FoodAndDrink\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FoodAndDrink\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T20:19:52.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FoodAndDrinkClone\\FoodAndDrink\\FoodAndDrink\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "FoodAndDrink\\Views\\Access\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FoodAndDrinkClone\\FoodAndDrink\\FoodAndDrink\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "FoodAndDrink\\Views\\Access\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T02:52:58.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

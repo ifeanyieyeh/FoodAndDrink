@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <style>
+        body{
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="myDiv">
+        <h2>Welcome to Sun Heaven Hotels and Resort Restaurant</h2>
+        <h3>Dear Guest, Please Order Now. Before ordering, Please look through our Menu</h3>
+    </div>
+
+    <div class="card">
+        <img src="/images/burger.jpeg" alt="Ifeanyi"/>
+        <div class="container">
+            <h2>Burger</h2>
+            <a asp-controller="Orders" asp-action="Create">
+                <input type="button" class="btn  btn-primary" value="Order Now" />
+            </a>
+            
+        </div>
+    </div>
+
+
+    <div class="card">
+        <img src="/images/Chicken.jpeg" alt="Ifeanyi" />
+        <div class="container">
+            <h2>Chicken</h2>
+            <a asp-controller="Orders" asp-action="Create">
+                <input type="button" class="btn  btn-primary" value="Order Now" />
+            </a>
+
+        </div>
+    </div>
+
+
+    <div class="card">
+        <img src="/images/Drinks.jpeg" alt="Ifeanyi" />
+        <div class="container">
+            <h2>Drinks</h2>
+            <a asp-controller="Orders" asp-action="Create">
+                <input type="button" class="btn  btn-primary" value="Order Now" />
+            </a>
+
+        </div>
+    </div>
+
+
+    <div class="card">
+        <img src="/images/Edikaikong.jpeg" alt="Ifeanyi" />
+        <div class="container">
+            <h2>Edikaikong</h2>
+            <a asp-controller="Orders" asp-action="Create">
+                <input type="button" class="btn  btn-primary" value="Order Now" />
+            </a>
+
+        </div>
+    </div>
+
+    
+    <div class="card">
+        <img src="/images/Pastries.jpeg" alt="Ifeanyi" />
+        <div class="container">
+            <h2>Patries</h2>
+            <a asp-controller="Orders" asp-action="Create">
+                <input type="button" class="btn  btn-primary" value="Order Now" />
+            </a>
+
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="/images/Sun Heaven Club Sandwich.jpeg" alt="Ifeanyi" />
+        <div class="container">
+            <h2>Sun Heaven Club Sandwich</h2>
+            <a asp-controller="Orders" asp-action="Create">
+                <input type="button" class="btn  btn-primary" value="Order Now" />
+            </a>
+
+        </div>
+    </div>
+
+</body>
+</html>
