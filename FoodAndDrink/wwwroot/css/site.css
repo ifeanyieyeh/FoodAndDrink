@@ -21,19 +21,31 @@ body {
   margin-bottom: 60px;
 }
 
-.myDiv{
-    border: 5px outset red;
-    background-color: white;
+.myDiv {
+    
+    background-image: url('../Images/restaurant_2.jpg');
     text-align: center;
     height: 250px;
     width: 100%;
 }
 
-img{
-    width:200px;
+.card_container{
+    max-width: 920px;
+    margin: 0px auto 0px auto;
+}
+
+card_img {
+    width: 200px;
     height: 120px;
     margin: 10px;
     padding: 10px;
+}
+
+.banner-img{
+    max-width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
 }
 
 .card{
@@ -41,21 +53,22 @@ img{
     display: inline-block;
     box-shadow: 0 4px 8px 0 rgba(0,0,0.2);
     transition: 0.3s;
-    margin-top: 30px;
+    margin: 30px 15px 0px 15px;
 }
 
 .container{
     padding: 2px 16px;
 }
-h2{
-    color: black;
-
+h1 {
+    color: #efefef;
+    text-align: center;
+    text-shadow: 0 4px 8px 0 rgba(0,0,0.2);
 }
-.footer{
+.footer {
     position: absolute;
     bottom: 0;
     width: 100%;
     white-space: nowrap;
     line-height: 60px;
-    background-color: red;
+    background-color: #258cfb;
 }
